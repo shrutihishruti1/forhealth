@@ -7,6 +7,15 @@ On a long mission an astronaut cannot see a doctor, and help from Earth gets
 slower the farther they travel. Forhealth is a two-minute daily check-in that
 answers three questions: *Am I okay today? Is anything changing? What should I do?*
 
+## Try it live
+
+Open the app in your browser, with nothing to install:
+**https://forhealth.streamlit.app/**
+
+It opens on mission day 60. Drag the **Mission day** slider in the left
+sidebar from 30 to 60 to watch resting heart rate change from OK to WATCH.
+If the page says it is waking up, give it about a minute.
+
 ## What it does
 
 Every reading gets two checks:
